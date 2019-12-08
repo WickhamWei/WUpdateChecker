@@ -1,5 +1,6 @@
 # WUpdateChecker
 调用 Github API 实现 Java 应用程序检查更新  
+请使用 GSON 库包
 ## 使用方法  
 ```
 new WUpdateChecker(String 软件现在的软件版本号, String Github的API地址);
